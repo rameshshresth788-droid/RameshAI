@@ -1,0 +1,8 @@
+<resources>
+    <color name="orb_idle">#5B8CFF</color>
+    <color name="orb_listening">#4CD9C0</color>
+    <color name="orb_thinking">#B37CFF</color>
+    <color name="orb_speaking">#FFC24C</color>
+    <color name="orb_error">#FF5C5C</color>
+    <color name="bg_dark">#0B0D14</color>
+</resources>

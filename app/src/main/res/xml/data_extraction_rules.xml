@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup disableIfNoEncryptionCapability="true">
+        <exclude domain="sharedpref" path="secure_config.xml" />
+        <exclude domain="database" path="memory.db" />
+    </cloud-backup>
+</data-extraction-rules>

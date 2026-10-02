@@ -1,0 +1,3 @@
+# Copy this file to local.properties (which is gitignored) and set your SDK path.
+# This file is NOT used for API keys. API keys live in runtime config (see README).
+sdk.dir=/path/to/Android/Sdk

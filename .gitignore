@@ -1,0 +1,21 @@
+*.iml
+.gradle/
+/local.properties
+.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Secrets / runtime config — never commit real values
+.env
+config/assistant.json
+*.keystore
+*.jks
+keystore.properties
+
+# Logs
+*.log
+tools/.last_backup

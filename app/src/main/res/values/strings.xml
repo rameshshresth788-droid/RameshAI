@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RAMESH AI</string>
+    <string name="accessibility_service_description">RAMESH AI uses Accessibility only when you ask it to control another app, such as clicking, scrolling, going back, or typing. It does not enable itself and can be turned off anytime in Android Accessibility settings.</string>
+    <string name="assistant_notification_channel">RAMESH AI Assistant</string>
+    <string name="assistant_notification_text">RAMESH AI is listening in the background</string>
+</resources>
